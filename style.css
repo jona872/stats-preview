@@ -12,11 +12,11 @@ body {
     padding: 88px 24px;
     background-color: hsl(233, 47%, 7%);
     font-size: 15px;
-    margin: 0 auto;
 }
 
 .card {
     width: 327px;
+    margin: 0 auto;
 }
 
 .card--header {
